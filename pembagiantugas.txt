@@ -1,0 +1,35 @@
+# Pembagian Tugas Proyek
+
+Berikut adalah pembagian tugas untuk tim Anda:
+
+### 1. Jihan Nabilah (2208107010035) - Team Leader
+- Pencarian dan persiapan dataset
+- Pembuatan presentasi PowerPoint untuk proyek
+- Koordinasi seluruh anggota tim
+- Memastikan timeline proyek terpenuhi
+
+### 2. Shofia Nurul Huda (2208107010015)
+- Proses training model CNN (Convolutional Neural Network)
+- Optimasi model
+- Deployment model (berkolaborasi dengan Farhanul)
+- Melakukan evaluasi performa model
+
+### 3. Farhanul Khair (2208107010076)
+- Deployment model ke platform yang ditentukan
+- Pembuatan antarmuka pengguna (UI)
+- Integrasi model CNN dengan aplikasi
+- Pengujian sistem setelah deployment
+
+### 4. M. Bintang Indra Hidayat (2208107010023)
+- Training model CNN
+- Eksperimen dengan arsitektur model yang berbeda
+- Tuning hyperparameter
+- Visualisasi hasil training
+
+### 5. Ahmad Syah Ramadhan (2208107010033)
+- Interpretasi semua proses yang dilakukan tim
+- Dokumentasi teknis proses training dan deployment
+- Analisis hasil dan performa model
+- Penyusunan laporan akhir proyek
+
+Pembagian ini memastikan setiap anggota memiliki tanggung jawab yang jelas sambil tetap memungkinkan kolaborasi di area-area yang saling berhubungan.
